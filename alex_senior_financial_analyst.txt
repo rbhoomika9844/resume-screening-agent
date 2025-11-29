@@ -1,0 +1,4 @@
+Alex Johnson
+Experience: 6 years in FP&A at TechCorp
+Skills: Financial modeling, forecasting, SQL, Python, Excel
+Summary: Led budgeting process and built models for product lines.

@@ -1,0 +1,1 @@
+Architecture (text):\nUser (Browser/Streamlit) -> Streamlit UI -> Backend (app.py) -> OpenAI Embeddings API -> compute cosine similarity -> rank -> OpenAI Chat for explanations -> output (ranked list, CSV).\nOptional: vector DB (Pinecone/Chroma) for scale, storage for metadata, CI/CD to deploy to Streamlit Cloud.
